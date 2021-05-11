@@ -20,5 +20,5 @@ FROM alpine
 RUN apk --no-cache add ca-certificates
 WORKDIR /root/
 # Copy the binary from the builder stage and set it as the default command.
-COPY --from=builder /app/bin/hello /usr/local/bin/
+Add --from=builder /app/bin/hello /usr/local/bin/
 CMD ["hello"]
