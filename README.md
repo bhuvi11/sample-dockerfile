@@ -1,5 +1,7 @@
 # Getting Started
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/5e9fadeb-6002-4f97-a53c-e018918981e9.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/sample-dockerfile?orgId=560723739106)  
+
 These steps will get this sample Dockerfile application running for you using DigitalOcean App Platform.
 
 **Note: Following these steps may result in charges for the use of DigitalOcean services**
